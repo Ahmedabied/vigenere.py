@@ -15,4 +15,4 @@ git clone https://github.com/Ahmedabied/vigenere.py.git
 
 ###### Preview :
 
-![alt text](https://raw.githubusercontent.com/Ahmedabied//master/vigenere.py/EX.png)
+![alt text](https://raw.githubusercontent.com/Ahmedabied/vigenere.py/master/EX.png)
